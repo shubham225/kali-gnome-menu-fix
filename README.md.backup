@@ -13,8 +13,7 @@ This script will organize kali penetration tools in folders based on application
   >chmod +x ./kali-gnome-menu-fix.sh
 
   >sh ./kali-gnome-menu-fix.sh
-3. Restart GNOME shell by pressing ALT+F2 or logout-login. 
-4. Menu will be organized based on application category.
+3. Restart GNOME shell or re-login and menu will be organized.
 
 
 ## License & copyright
